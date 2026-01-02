@@ -646,15 +646,6 @@ class OffsetDumperGUI:
         self.update_log("UN​​​​​​​​​​​​​​​​REAL ENGINE OFFSET DUMPER\n")
 self.update_log("=" * 60 + "\n\n")
 self.root.update()
-
-code
-Code
-
-download
-
-content_copy
-
-expand_less
 result = dump_offsets(pid, self.update_status, self.update_log)
 
     if not result:
